@@ -1,2 +1,2 @@
-web: java $JAVA_OPTS -jar audit-ws/target/audit-ws.jar -port $PORT
+web: java $JAVA_OPTS -jar gateway-ws/target/gateway-ws.jar -port $PORT
 
